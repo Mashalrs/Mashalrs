@@ -1,13 +1,13 @@
 # 🌸Welcome to My GitHub Profile!🌸
 
 Contents:
-+ [About Me](#About_Me_💗🎀🦋)
-+ [Education](#Education_🎓)
-+ [Skills](#Skills_📖)
-+ [Hobbies and Interests](#Hobbies_and_Interests_🤸‍♀️)
-+ [How to connect and reach me](#How_to_connect_and_reach_me_🎉)
++ [About Me](#About_Me💗🎀🦋)
++ [Education](#Education🎓)
++ [Skills](#Skills📖)
++ [Hobbies and Interests](#Hobbies_and_Interests🤸‍♀️)
++ [How to connect and reach me](#How_to_connect_and_reach_me🎉)
 
-## About Me 💗🎀🦋
+## About Me💗🎀🦋
 
 Hello! I'm Mashal, a passionate and creative student currently completing a Full Stack Engineering BootCamp, in the hopes of breaking into tech as a Front End Engineer 😊
 
@@ -23,7 +23,7 @@ Hello! I'm Mashal, a passionate and creative student currently completing a Full
 
 💕I would greatly appreciate and am open to any information, support, advice and opportunities!
 
-## Education 🎓 
+## Education🎓 
 
 + Bachelor of Science in Speech and Language Therapy Studies
   - University of Reading
@@ -37,7 +37,7 @@ Hello! I'm Mashal, a passionate and creative student currently completing a Full
   - Northwood College for girls GDST
   - 5 GCSE's including Maths and English
  
-## Skills 📖
+## Skills📖
 
 + HTML
 + CSS
@@ -51,7 +51,7 @@ Hello! I'm Mashal, a passionate and creative student currently completing a Full
 + Going for walks 🚶‍♀️
 + Sunny weather ☀️
 
-## How to connect and reach me 🎉
+## How to connect and reach me🎉
 
 + LinkedIn: linkedin.com/in/mashal-siddiqi-13724b20b 
 + Email address: Mashalsiddiqi2000@gmail.com
