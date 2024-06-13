@@ -1,11 +1,11 @@
 # 🌸Welcome to My GitHub Profile!🌸
 
 Contents:
-+ [About Me](#About_Me)
-+ [Education](#Education)
-+ [Skills](#Skills)
-+ [Hobbies and Interests](#Hobbies_and_Interests)
-+ [How to connect and reach me](#How_to_connect_and_reach_me)
++ [About Me](#About_Me_💗🎀🦋)
++ [Education](#Education_🎓)
++ [Skills](#Skills_📖)
++ [Hobbies and Interests](#Hobbies_and_Interests_🤸‍♀️)
++ [How to connect and reach me](#How_to_connect_and_reach_me_🎉)
 
 ## About Me 💗🎀🦋
 
