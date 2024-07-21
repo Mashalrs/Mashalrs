@@ -42,6 +42,9 @@ Hello! I'm Mashal, a passionate and creative student currently completing a Full
 + HTML
 + CSS
 + Javascript
++ React JS
++ Express JS
++ Node JS
  
 ## Hobbies and Interests 🤸‍♀️
 
