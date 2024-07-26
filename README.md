@@ -15,7 +15,7 @@ Hello! I'm Mashal, a passionate and creative student currently completing a Full
 
 💻Within the boot camp, I have learnt skills in various programming languages, frameworks and tools essential for both front-end and back-end development. 
 
-🩺I have an interest in health tech as I believe that healthcare can be significantly improved through the integration of advanced technology. 
+🩺I am interested in health tech as I believe that healthcare can be significantly improved by integrating advanced technology. 
 
 🔜Soon, after learning other coding languages such as Python, natural language processing & AI, I would love to create an application about Speech and Language Therapy.
 
@@ -35,7 +35,7 @@ Hello! I'm Mashal, a passionate and creative student currently completing a Full
   
 + GCSE's
   - Northwood College for girls GDST
-  - 5 GCSE's including Maths and English
+  - 7 GCSE's including Maths and English
  
 ## Skills📖
 
@@ -50,7 +50,7 @@ Hello! I'm Mashal, a passionate and creative student currently completing a Full
 
 + Playing and watching tennis 🎾
 + Travelling ✈️
-+ Painting 🎨
++ Baking 🧁
 + Going for walks 🚶‍♀️
 + Sunny weather ☀️
 
