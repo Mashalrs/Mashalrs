@@ -9,7 +9,7 @@ Contents:
 
 ## About Me💗🎀🦋
 
-Hello! I'm Mashal, a passionate and creative student currently completing a Full Stack Engineering BootCamp, in the hopes of breaking into tech as a Front End Engineer 😊
+Hello! I'm Mashal, a passionate and creative graduate in Speech & Language Therapy & having completed a Full Stack Engineering BootCamp, in the hopes of breaking into tech as a Front End Engineer 😊
 
 🌟I love cats, pink things, exploring new places, reading about history and learning new things (and eating cake)!
 
